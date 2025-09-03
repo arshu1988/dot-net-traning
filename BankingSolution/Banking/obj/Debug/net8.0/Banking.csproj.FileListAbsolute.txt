@@ -1,0 +1,11 @@
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\bin\Debug\net8.0\Banking.deps.json
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\bin\Debug\net8.0\Banking.dll
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\bin\Debug\net8.0\Banking.pdb
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\Banking.AssemblyInfoInputs.cache
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\Banking.AssemblyInfo.cs
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\Banking.csproj.CoreCompileInputs.cache
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\Banking.dll
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\refint\Banking.dll
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\Banking.pdb
+C:\D_Drive\poc-projects\dot Net\BankingSolution\Banking\obj\Debug\net8.0\ref\Banking.dll
